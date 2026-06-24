@@ -13,3 +13,6 @@ node_modules/
 __pycache__/
 *.pyc
 .venv/
+
+# Pi agent config (personal)
+.pi/
